@@ -1,6 +1,10 @@
 { pkgs, lib, config, inputs, ... }:
 
 {
+  # Load .env into the shell/process environment (OPENAI_* config for
+  # meetmin-summarize). The .env file is gitignored.
+  dotenv.enable = true;
+
   languages.python = {
     enable = true;
     uv = {
@@ -48,7 +52,10 @@ ROOT_URL = http://localhost:3000/
 DISABLE_SSH = false
 START_SSH_SERVER = true
 # SSH login user (defaults to the OS user; pin to the conventional "git").
+# SSH_USER sets the displayed clone URL; BUILTIN_SSH_SERVER_USER is the
+# username the built-in SSH server actually authenticates against.
 SSH_USER = git
+BUILTIN_SSH_SERVER_USER = git
 SSH_DOMAIN = localhost
 SSH_PORT = 2222
 SSH_LISTEN_HOST = 127.0.0.1

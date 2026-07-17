@@ -2,4 +2,13 @@
 name = "meetmin"
 version = "0.1.0"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "openai>=1.0",
+]
+
+[project.scripts]
+meetmin-summarize = "meetmin.summarize:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

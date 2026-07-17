@@ -1,5 +1,10 @@
 # Agent Guidelines
 
+## Commits
+
+Do not add a "Co-Authored-By: Claude" trailer (or any similar co-author line) to
+commit messages.
+
 ## devenv
 
 devenv does *not* use process-compose to start its processes. It uses the devenv native process manager. Do not look for process-compose logs.

@@ -18,6 +18,16 @@
   packages = [ pkgs.gitea ];
 
   # State (SQLite DB, config, repos) lives under .devenv/state/gitea.
+  processes.gitea.ready = {
+    http.get = {
+      port = 3000;
+      path = "/";
+      scheme = "http";
+    };
+    initial_delay = 2;
+    period = 2;
+  };
+
   processes.gitea.exec = ''
     export GITEA_WORK_DIR="${config.devenv.state}/gitea"
     export GITEA_CUSTOM="$GITEA_WORK_DIR/custom"

@@ -10,10 +10,12 @@ llama.cpp, a gateway, ...). Point it at one with ``--base-url`` or the
 ``OPENAI_BASE_URL`` environment variable.
 
 Auth / config (env vars, all overridable by flags):
-    OPENAI_API_KEY   API key. Required by the client; for a local server with
-                     no auth, set it to any non-empty placeholder.
-    OPENAI_BASE_URL  Endpoint, e.g. http://localhost:8000/v1 (default: OpenAI).
-    OPENAI_MODEL     Model name (default: gpt-4o-mini).
+    OPENAI_API_KEY      API key. Required by the client; for a local server
+                        with no auth, set it to any non-empty placeholder.
+    OPENAI_BASE_URL     Endpoint, e.g. http://localhost:8000/v1 (default: OpenAI).
+    OPENAI_MODEL        Model name (default: gpt-4o-mini).
+    OPENAI_TEMPERATURE  Sampling temperature (default: 0.2).
+    OPENAI_MAX_TOKENS   Max output tokens (default: 8000).
 
 Usage::
 
@@ -33,6 +35,8 @@ from pathlib import Path
 from openai import OpenAI
 
 DEFAULT_MODEL = os.environ.get("OPENAI_MODEL", "gpt-4o-mini")
+DEFAULT_TEMPERATURE = float(os.environ.get("OPENAI_TEMPERATURE", "0.2"))
+DEFAULT_MAX_TOKENS = int(os.environ.get("OPENAI_MAX_TOKENS", "8000"))
 
 SYSTEM_PROMPT = """\
 You are a meeting-minutes writer. You are given the raw, auto-transcribed text
@@ -80,6 +84,8 @@ def summarize_transcript(
     transcript: str,
     raw_relpath: str,
     raw_link: str,
+    temperature: float = DEFAULT_TEMPERATURE,
+    max_tokens: int = DEFAULT_MAX_TOKENS,
 ) -> str:
     """Return the Markdown minutes for a single transcript."""
     user_message = (
@@ -89,8 +95,8 @@ def summarize_transcript(
     )
     response = client.chat.completions.create(
         model=model,
-        max_tokens=8000,
-        temperature=0.2,
+        max_tokens=max_tokens,
+        temperature=temperature,
         messages=[
             {"role": "system", "content": SYSTEM_PROMPT},
             {"role": "user", "content": user_message},
@@ -124,6 +130,18 @@ def main() -> int:
         "--base-url",
         default=os.environ.get("OPENAI_BASE_URL"),
         help="OpenAI-compatible endpoint base URL (default: OPENAI_BASE_URL env / OpenAI)",
+    )
+    parser.add_argument(
+        "--temperature",
+        type=float,
+        default=DEFAULT_TEMPERATURE,
+        help=f"Sampling temperature (default: {DEFAULT_TEMPERATURE}, env OPENAI_TEMPERATURE)",
+    )
+    parser.add_argument(
+        "--max-tokens",
+        type=int,
+        default=DEFAULT_MAX_TOKENS,
+        help=f"Max output tokens (default: {DEFAULT_MAX_TOKENS}, env OPENAI_MAX_TOKENS)",
     )
     parser.add_argument(
         "--force",
@@ -175,7 +193,13 @@ def main() -> int:
         raw_link = f"../{args.raw_dir}/{transcript.name}"
         print(f"summarizing {transcript.name} ...", flush=True)
         minutes = summarize_transcript(
-            client, args.model, transcript.read_text(), raw_relpath, raw_link
+            client,
+            args.model,
+            transcript.read_text(),
+            raw_relpath,
+            raw_link,
+            temperature=args.temperature,
+            max_tokens=args.max_tokens,
         )
         out.write_text(minutes)
         print(f"wrote  {out.relative_to(args.repo)}")

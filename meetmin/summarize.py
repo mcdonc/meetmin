@@ -1,29 +1,38 @@
-"""Summarize raw meeting transcripts into minutes using the Claude API.
+"""Summarize raw meeting transcripts into minutes via an OpenAI-compatible API.
 
 Scans ``<repo>/raw/*.txt`` and, for each transcript that does not yet have a
 matching ``<repo>/minutes/<stem>.md``, generates a structured minutes summary
-with Claude and writes it. Existing minutes are left untouched unless
-``--force`` is given.
+and writes it. Existing minutes are left untouched unless ``--force`` is given.
 
-Auth: set ``ANTHROPIC_API_KEY``, or run ``ant auth login`` — the SDK picks up
-the resulting profile automatically.
+This talks to the generic OpenAI **Chat Completions** API, so it works with
+OpenAI itself or any OpenAI-compatible server (vLLM, Ollama, LM Studio,
+llama.cpp, a gateway, ...). Point it at one with ``--base-url`` or the
+``OPENAI_BASE_URL`` environment variable.
+
+Auth / config (env vars, all overridable by flags):
+    OPENAI_API_KEY   API key. Required by the client; for a local server with
+                     no auth, set it to any non-empty placeholder.
+    OPENAI_BASE_URL  Endpoint, e.g. http://localhost:8000/v1 (default: OpenAI).
+    OPENAI_MODEL     Model name (default: gpt-4o-mini).
 
 Usage::
 
     meetmin-summarize --repo /path/to/customer-acme
-    # or, without installing the console script:
-    uv run python -m meetmin.summarize --repo /path/to/customer-acme
+    # against a local OpenAI-compatible server:
+    meetmin-summarize --repo customer-acme \\
+        --base-url http://localhost:8000/v1 --model my-local-model
 """
 
 from __future__ import annotations
 
 import argparse
+import os
 import sys
 from pathlib import Path
 
-import anthropic
+from openai import OpenAI
 
-MODEL = "claude-opus-4-8"
+DEFAULT_MODEL = os.environ.get("OPENAI_MODEL", "gpt-4o-mini")
 
 SYSTEM_PROMPT = """\
 You are a meeting-minutes writer. You are given the raw, auto-transcribed text
@@ -66,7 +75,7 @@ were not stated. Keep it concise."""
 
 
 def summarize_transcript(
-    client: anthropic.Anthropic,
+    client: OpenAI,
     model: str,
     transcript: str,
     raw_relpath: str,
@@ -78,21 +87,23 @@ def summarize_transcript(
         f"RAW_LINK = {raw_link}\n\n"
         f"Transcript:\n\n{transcript}"
     )
-    response = client.messages.create(
+    response = client.chat.completions.create(
         model=model,
         max_tokens=8000,
-        thinking={"type": "adaptive"},
-        output_config={"effort": "low"},
-        system=SYSTEM_PROMPT,
-        messages=[{"role": "user", "content": user_message}],
+        temperature=0.2,
+        messages=[
+            {"role": "system", "content": SYSTEM_PROMPT},
+            {"role": "user", "content": user_message},
+        ],
     )
-    text = "".join(b.text for b in response.content if b.type == "text").strip()
+    text = (response.choices[0].message.content or "").strip()
     return text + "\n"
 
 
 def main() -> int:
     parser = argparse.ArgumentParser(
-        description="Summarize raw/*.txt transcripts into minutes/*.md with Claude.",
+        description="Summarize raw/*.txt transcripts into minutes/*.md via an "
+        "OpenAI-compatible Chat Completions API.",
     )
     parser.add_argument(
         "--repo",
@@ -106,7 +117,14 @@ def main() -> int:
     parser.add_argument(
         "--minutes-dir", default="minutes", help="Output subdirectory (default: minutes)"
     )
-    parser.add_argument("--model", default=MODEL, help=f"Claude model (default: {MODEL})")
+    parser.add_argument(
+        "--model", default=DEFAULT_MODEL, help=f"Model name (default: {DEFAULT_MODEL})"
+    )
+    parser.add_argument(
+        "--base-url",
+        default=os.environ.get("OPENAI_BASE_URL"),
+        help="OpenAI-compatible endpoint base URL (default: OPENAI_BASE_URL env / OpenAI)",
+    )
     parser.add_argument(
         "--force",
         action="store_true",
@@ -148,7 +166,9 @@ def main() -> int:
             print(f"would  {transcript.name} -> {out.relative_to(args.repo)}")
         return 0
 
-    client = anthropic.Anthropic()
+    # OpenAI() reads OPENAI_API_KEY / OPENAI_BASE_URL from the environment;
+    # --base-url overrides the latter when given.
+    client = OpenAI(base_url=args.base_url) if args.base_url else OpenAI()
     minutes_dir.mkdir(parents=True, exist_ok=True)
     for transcript, out in pending:
         raw_relpath = f"{args.raw_dir}/{transcript.name}"

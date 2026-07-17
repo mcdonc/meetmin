@@ -3,7 +3,7 @@ name = "meetmin"
 version = "0.1.0"
 requires-python = ">=3.12"
 dependencies = [
-    "anthropic>=0.69",
+    "openai>=1.0",
 ]
 
 [project.scripts]

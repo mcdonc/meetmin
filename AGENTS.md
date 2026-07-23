@@ -1,5 +1,13 @@
 # Agent Guidelines
 
+## Branches
+
+When doing work on a branch, use a git worktree rather than switching branches in
+the primary working directory. Create the branch in its own worktree (e.g.
+`git worktree add ../meetmin-<branch> -b <branch>`), do the work there, and remove
+the worktree when done. This keeps the main checkout clean and avoids disrupting
+any running dev environment.
+
 ## Commits
 
 Do not add a "Co-Authored-By: Claude" trailer (or any similar co-author line) to

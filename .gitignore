@@ -147,6 +147,9 @@ activemq-data/
 # SageMath parsed files
 *.sage.py
 
+# Git worktrees (see AGENTS.md — branch work lives here)
+.worktrees/
+
 # Environments
 .env
 .envrc

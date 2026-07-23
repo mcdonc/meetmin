@@ -3,10 +3,11 @@
 ## Branches
 
 When doing work on a branch, use a git worktree rather than switching branches in
-the primary working directory. Create the branch in its own worktree (e.g.
-`git worktree add ../meetmin-<branch> -b <branch>`), do the work there, and remove
-the worktree when done. This keeps the main checkout clean and avoids disrupting
-any running dev environment.
+the primary working directory. Create the branch in its own worktree under the
+repo's `.worktrees/` directory (which is gitignored), e.g.
+`git worktree add .worktrees/<branch> -b <branch>`, do the work there, and remove
+the worktree when done (`git worktree remove .worktrees/<branch>`). This keeps the
+main checkout clean and avoids disrupting any running dev environment.
 
 ## Commits
 

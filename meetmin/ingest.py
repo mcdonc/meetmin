@@ -29,6 +29,7 @@ from pathlib import Path
 
 from openai import OpenAI
 
+from .chat import chat_completion
 from .summarize import (
     DEFAULT_MAX_TOKENS,
     DEFAULT_MODEL,
@@ -105,7 +106,8 @@ def ingest_transcript(
     used_tools = False
     notes: list[str] = []
     for _ in range(max_steps):
-        response = client.chat.completions.create(
+        response = chat_completion(
+            client,
             model=model,
             temperature=temperature,
             max_tokens=max_tokens,

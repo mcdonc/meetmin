@@ -34,6 +34,8 @@ from pathlib import Path
 
 from openai import OpenAI
 
+from .chat import chat_completion
+
 DEFAULT_MODEL = os.environ.get("OPENAI_MODEL", "gpt-4o-mini")
 DEFAULT_TEMPERATURE = float(os.environ.get("OPENAI_TEMPERATURE", "0.2"))
 DEFAULT_MAX_TOKENS = int(os.environ.get("OPENAI_MAX_TOKENS", "8000"))
@@ -99,7 +101,8 @@ def summarize_transcript(
         f"RAW_LINK = {raw_link}\n\n"
         f"Transcript:\n\n{transcript}"
     )
-    response = client.chat.completions.create(
+    response = chat_completion(
+        client,
         model=model,
         max_tokens=max_tokens,
         temperature=temperature,

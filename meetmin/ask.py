@@ -21,6 +21,7 @@ from pathlib import Path
 
 from openai import OpenAI
 
+from .chat import chat_completion
 from .summarize import DEFAULT_MAX_TOKENS, DEFAULT_MODEL, DEFAULT_TEMPERATURE
 from .wikitools import ToolError, WikiTools
 
@@ -44,7 +45,8 @@ def select_pages(
     temperature: float, max_tokens: int,
 ) -> list[str]:
     """Ask the model which index pages are relevant; return their paths."""
-    response = client.chat.completions.create(
+    response = chat_completion(
+        client,
         model=model,
         temperature=temperature,
         max_tokens=max_tokens,
@@ -79,7 +81,8 @@ def answer_question(
     context = "\n\n".join(
         f"=== {path} ===\n{content}" for path, content in pages.items()
     )
-    response = client.chat.completions.create(
+    response = chat_completion(
+        client,
         model=model,
         temperature=temperature,
         max_tokens=max_tokens,

@@ -39,8 +39,16 @@
 
 **Marcus:** Ha! Alright, tomorrow let's talk about the guitar heroes of the 70s. Not just the famous ones — let's dig into some underappreciated players too.
 
-**Dana:** Ooh, I have a whole list for that.
+**Marcus:** Action items. Sheila, you brought up the class dynamics — British art-school glam versus American street-level glam. Can you write up a comparison of the backgrounds and influences of Bowie, Ferry, and Eno versus Johnny Thunders, Alice Cooper, and the Dolls? Start July 7th, deliver by July 15th.
 
-**Rick:** Of course you do. See everyone tomorrow.
+**Sheila:** Love it. I'll have it by the 15th.
+
+**Marcus:** Rick, you connected glam to hair metal. Can you put together a visual and sonic lineage from the New York Dolls through to Motley Crue, showing how the aesthetic and sound evolved? Start July 8th, deliver by July 16th.
+
+**Rick:** Of course you do. I mean — yes, I'll do that. See everyone tomorrow.
+
+**Marcus:** Dana, you mentioned Mick Ronson not getting enough credit. Can you research Ronson's contributions to Bowie's Ziggy-era records and write up a case for why he deserves more recognition? Start July 7th, deliver by July 14th.
+
+**Dana:** Ooh, I have a whole list for that — and Ronson's story is one I know well. I'll have it by the 14th.
 
 **Sheila:** Can't wait. Later, all.

@@ -49,9 +49,17 @@
 
 **Marcus:** Great discussion. Tomorrow let's talk about the albums that bridged punk and what came next — the post-punk and new wave records of the late 70s.
 
-**Sheila:** The best part of the story, in my opinion.
+**Marcus:** Action items. Sheila, you made a powerful case for punk as democratization. Can you write up a short essay on how the DIY ethic of punk — fanzines, independent labels, self-booking — changed the music industry? Start July 12th, deliver by July 20th.
 
-**Rick:** The part where people remembered how to play their instruments?
+**Sheila:** The best part of the story, in my opinion. And yes, I'll write that up. The 20th.
+
+**Marcus:** Dana, you conceded *Marquee Moon* and *London Calling*. Can you listen to those two albums back to back and write up what specifically makes them transcend the punk label — the musical elements that set them apart? Start July 13th, deliver by July 20th.
+
+**Dana:** Fair enough. I'll give them a proper close listen. The 20th works.
+
+**Marcus:** Rick, you said punk was necessary as a corrective. Can you put together a timeline of key punk moments — first singles, first shows, key releases — from 1974 through 1979 on both sides of the Atlantic? Start July 12th, deliver by July 19th.
+
+**Rick:** The part where people remembered how to play their instruments? Just kidding. I'll do the timeline. The 19th.
 
 **Sheila:** Rick.
 

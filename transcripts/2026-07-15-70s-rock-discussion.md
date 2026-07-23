@@ -39,8 +39,14 @@
 
 **Marcus:** Tomorrow let's talk about the forgotten and underrated bands of the 70s — the ones who deserved more attention than they got.
 
-**Sheila:** Oh, I love a deep cut. Tomorrow should be fun.
+**Marcus:** Action items. Rick, you drew direct lines from 70s bands to modern ones. Can you write up a detailed influence map — pick five current or recent bands and trace their sound back through the 70s, with specific musical evidence? Start July 16th, deliver by July 24th.
 
-**Dana:** I've been waiting for this one. See you all then.
+**Rick:** The hipster episode. Can't wait. And yes, I'll do the influence map. The 24th.
 
-**Rick:** The hipster episode. Can't wait.
+**Marcus:** Sheila, you brought up the fashion legacy. Can you put together a visual reference guide showing how 70s rock aesthetics — punk, glam, southern rock — have cycled back into modern fashion? Start July 17th, deliver by July 25th.
+
+**Sheila:** Oh, I love a deep cut. Tomorrow should be fun. And the fashion piece is right up my alley. The 25th.
+
+**Marcus:** Dana, you mentioned the DIY infrastructure punk built — independent labels, fanzines. Can you research three key independent labels that emerged from punk — Dischord, SST, and Rough Trade — and document how they changed the industry? Start July 16th, deliver by July 24th.
+
+**Dana:** I've been waiting for this one. See you all then. I'll have the label histories by the 24th.

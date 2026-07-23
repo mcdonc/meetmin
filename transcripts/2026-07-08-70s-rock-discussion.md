@@ -37,6 +37,16 @@
 
 **Marcus:** Amen to that. Tomorrow — the vocalists. The voices that defined the decade.
 
-**Sheila:** Robert Plant, Freddie Mercury, Stevie Nicks — where do you even begin?
+**Marcus:** Action items. Rick, since you're the Bonham champion, can you put together an analysis of Bonham's drumming technique — the triplet feel, the right foot, the tuning — with specific tracks that demonstrate each element? Start July 9th, deliver by July 17th.
+
+**Rick:** You know I will. The 17th. Easy.
+
+**Marcus:** Dana, you brought up Chris Squire and John Paul Jones as multi-instrumentalists. Can you write a comparison of their bass styles and their roles as arrangers within their respective bands? Start July 10th, deliver by July 18th.
+
+**Dana:** I'll dig into that. Two very different approaches to the same instrument. July 18th.
+
+**Marcus:** Sheila, you mentioned Tina Weymouth's minimalist approach. Can you put together a case study of how Weymouth's bass lines on the first two Talking Heads albums defined the band's sound, with specific track examples? Start July 9th, deliver by July 16th.
+
+**Sheila:** Robert Plant, Freddie Mercury, Stevie Nicks — where do you even begin? And yes, I'll do Weymouth. The 16th works.
 
 **Rick:** Exactly the problem. See you all tomorrow.

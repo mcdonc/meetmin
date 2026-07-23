@@ -39,8 +39,16 @@
 
 **Marcus:** Perfect way to frame it. Tomorrow let's talk about the live experience — concerts, festivals, the culture around seeing these bands perform.
 
-**Sheila:** Oh, the stories from those shows are legendary.
+**Marcus:** Action items. Dana, you mentioned the Eno connection across post-punk. Can you map out all of Eno's production and collaboration work from 1977 to 1980 and show how he connected these different scenes? Start July 13th, deliver by July 21st.
 
-**Rick:** I wish I'd been there. Well, for most of it.
+**Dana:** The Eno web is fascinating. I'll have it mapped by the 21st.
+
+**Marcus:** Rick, you came around on Joy Division. Can you write a track-by-track analysis of *Unknown Pleasures* focusing on how Martin Hannett's production transformed the band's raw sound? Start July 14th, deliver by July 22nd.
+
+**Rick:** I wish I'd been there. Well, for most of it. And yeah, *Unknown Pleasures* deserves that deep dive. The 22nd.
+
+**Marcus:** Sheila, you brought up Gang of Four and their Marxist influences. Can you research and write up how political theory specifically shaped the lyrics and musical approach on *Entertainment!*? Start July 13th, deliver by July 20th.
+
+**Sheila:** Oh, the stories from those shows are legendary. And I'll do the Gang of Four piece — Andy Gill was explicit about the politics. The 20th.
 
 **Dana:** See you all tomorrow.

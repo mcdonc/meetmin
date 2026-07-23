@@ -35,7 +35,17 @@
 
 **Dana:** We could do this all day. Should we narrow the focus tomorrow? Maybe pick a specific year or a specific subgenre?
 
-**Marcus:** Let's do 1971. It might be the single best year for rock albums ever.
+**Marcus:** Let's do 1971. It might be the single best year for rock albums ever. But first, some action items. Dana, can you compile a side-by-side comparison of the production techniques on *Led Zeppelin IV* versus *Dark Side of the Moon*? Start July 3rd, deliver by July 11th.
+
+**Dana:** Perfect — I've been wanting to dig into that. July 11th it is.
+
+**Marcus:** Sheila, you brought up *Rumours* and the tension within the band. Can you write up a brief on how personal conflict influenced the songwriting on that album — who wrote what and what was happening between them? Start tomorrow, deliver by July 10th.
+
+**Sheila:** On it. I'll have it by the 10th.
+
+**Marcus:** And Rick, since you're the Sabbath defender, put together an argument for why *Paranoid* versus *Master of Reality* is the better album, with specific musical evidence. Start July 3rd, deliver by July 9th.
+
+**Rick:** Gladly. Though I might end up arguing for *Master of Reality* once I dig in.
 
 **Sheila:** Oh, that's a bold claim. But I'm interested. See you all tomorrow.
 

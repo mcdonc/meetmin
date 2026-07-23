@@ -39,4 +39,16 @@
 
 **Rick:** Twenty days of talking about 70s rock. This has been the best thing I've done all month.
 
-**Dana:** Agreed. See everyone for the finale tomorrow.
+**Marcus:** Before we go — action items for our final session prep. Dana, you pointed out all the gaps — Stevie Wonder, Marley, Krautrock, jazz fusion. Can you write up a "what we missed" document listing the major artists and movements we didn't cover, with a brief note on why each matters? Start tonight, deliver by July 27th.
+
+**Dana:** Agreed. I'll catalog our blind spots. The 27th.
+
+**Marcus:** Sheila, you mentioned Kate Bush and *The Kick Inside*. Can you write a profile of Bush as a case study of an artist who defied every convention of 70s rock — age, gender, genre expectations — and succeeded on her own terms? Start July 20th, deliver by July 28th.
+
+**Sheila:** She deserves that. I'll have it by the 28th.
+
+**Marcus:** Rick, you asked "what do we do now?" Can you draft a proposal for our next discussion series — format, schedule, topic options — based on what worked and what we missed in this series? Start July 21st, deliver by July 28th.
+
+**Rick:** I'll put something together. Album deep dives, the 60s, or more 70s — I'll lay out the options. The 28th.
+
+**Dana:** See everyone for the finale tomorrow.

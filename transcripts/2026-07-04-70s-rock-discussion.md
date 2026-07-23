@@ -51,7 +51,17 @@
 
 **Marcus:** Let's do southern rock. A completely different side of the 70s — Lynyrd Skynyrd, Allman Brothers, Marshall Tucker Band. The counterpoint to prog.
 
-**Rick:** Now we're talking. See y'all tomorrow.
+**Marcus:** Action items before we go. Dana, you made a great case for prog. Can you write up a defense of *Tales from Topographic Oceans* — the album you yourself admitted was self-indulgent? Make the best possible case for it. Start July 5th, deliver by July 13th.
+
+**Dana:** Challenge accepted. I'll find the beauty in every note. July 13th.
+
+**Marcus:** Sheila, you connected punk to the prog backlash. Can you put together a comparison showing how specific punk songs or statements directly responded to specific prog excesses? Start July 5th, deliver by July 12th.
+
+**Sheila:** I'll trace the battle lines. Done by the 12th.
+
+**Marcus:** Rick, you mentioned the post-punk synthesis — Talking Heads, Wire. Can you identify five post-punk tracks that clearly borrow from prog structures while keeping punk energy? Start July 6th, deliver by July 14th.
+
+**Rick:** Now we're talking. I'll have it by the 14th. See y'all tomorrow.
 
 **Dana:** I'll try to keep an open mind.
 

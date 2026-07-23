@@ -37,9 +37,17 @@
 
 **Marcus:** Well said. Tomorrow let's talk about the rhythm sections — the drummers and bass players who don't always get their due.
 
-**Sheila:** The unsung heroes. I'm in.
+**Marcus:** Before we go — action items. Dana, you and Sheila both raised the issue of women guitarists not getting credit. Can you put together a listening guide highlighting five essential tracks that showcase Bonnie Raitt's and Nancy Wilson's guitar work? Start July 8th, deliver by July 16th.
 
-**Rick:** Bonham day. Can't wait.
+**Dana:** Absolutely. Their playing deserves a spotlight. July 16th.
+
+**Marcus:** Rick, you made a strong case for Rory Gallagher. Can you write up a profile of Gallagher — his technique, his gear, why he's not a household name — and recommend his five best recordings? Start July 8th, deliver by July 15th.
+
+**Rick:** Bonham day. Can't wait. And yeah, I'll do Gallagher justice. The 15th.
+
+**Marcus:** Sheila, you brought up Robin Trower, who most people overlook. Can you compile a comparison of Trower's style versus Hendrix's, showing what Trower borrowed and what he made his own? Start July 9th, deliver by July 17th.
+
+**Sheila:** The unsung heroes. I'm in. I'll have the Trower piece by the 17th.
 
 **Dana:** There's more to the 70s than Bonham, Rick.
 

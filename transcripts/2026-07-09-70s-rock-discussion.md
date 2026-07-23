@@ -45,8 +45,16 @@
 
 **Marcus:** The 70s really did have everything. Screaming hard rock vocalists, operatic legends, raw blues-influenced singers, gentle folk-rock voices. Tomorrow let's shift gears and talk about the business side — the record labels, the managers, the industry that made it all possible.
 
-**Dana:** The dark side of the dream.
+**Marcus:** Before we wrap — action items. Sheila, you made the point about Ann Wilson's vocal power. Can you put together a vocal range comparison of Wilson, Plant, and Mercury, with specific performances that showcase their peaks? Start July 10th, deliver by July 18th.
 
-**Sheila:** This should be interesting. See everyone tomorrow.
+**Sheila:** This should be interesting. I'll have it by the 18th.
 
-**Rick:** Later, all.
+**Marcus:** Rick, you mentioned Daltrey's range from tender to explosive. Can you curate a listening sequence of five Who tracks that demonstrate Daltrey's full vocal spectrum? Start July 11th, deliver by July 17th.
+
+**Rick:** Later, all — just kidding. Yes, I'll do that. Daltrey deserves it. The 17th.
+
+**Marcus:** Dana, you brought up Peter Hammill as a vocalist's vocalist. Can you write an introduction to Hammill for someone who's never heard Van der Graaf Generator — key tracks, what to listen for, why he matters? Start July 10th, deliver by July 19th.
+
+**Dana:** The dark side of the dream. And yes, I'll evangelize Hammill. The 19th works.
+
+**Sheila:** See everyone tomorrow.

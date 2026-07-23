@@ -37,7 +37,17 @@
 
 **Marcus:** Great point to end on. Tomorrow let's discuss the cultural legacy — how 70s rock influenced everything that came after.
 
-**Sheila:** The long shadow. I like it.
+**Marcus:** Action items. Dana, you talked about Alan Parsons being only twenty-four when he engineered *Dark Side*. Can you research the key engineering innovations on that album — the tape loops, the quadraphonic mix, the found-sound recordings — and document the techniques? Start July 15th, deliver by July 23rd.
+
+**Dana:** That's a deep dive I've been wanting to do. The 23rd.
+
+**Marcus:** Rick, you brought up Muscle Shoals and its influence on rock recordings. Can you write up a profile of the Muscle Shoals rhythm section — the Swampers — and list the major rock albums they contributed to in the 70s? Start July 16th, deliver by July 23rd.
+
+**Rick:** The Swampers deserve their own documentary. I'll have it by the 23rd.
+
+**Marcus:** Sheila, you mentioned the early punk anti-production philosophy. Can you compare the recording approaches of the Ramones' debut versus *Unknown Pleasures* — both technically punk, but sonically opposite — and what that tells us about production as artistic choice? Start July 15th, deliver by July 22nd.
+
+**Sheila:** The long shadow. I like it. And that's a great comparison — I'll have it by the 22nd.
 
 **Dana:** See everyone tomorrow.
 

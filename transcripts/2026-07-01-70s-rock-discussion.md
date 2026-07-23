@@ -31,6 +31,18 @@
 
 **Marcus:** Which is its own kind of 70s rock. The decade contains its own backlash. Alright, let's pick this up tomorrow — maybe we can dig into specific albums next time.
 
+**Marcus:** Before we go, let's set some action items. Rick, since you mentioned bringing a list — can you put together a ranked top-ten albums list for each subgenre we mentioned today? Start on that tonight, and have it ready by July 8th.
+
+**Rick:** Done. I'll have it by the 8th.
+
+**Marcus:** Dana, you made some great points about production evolution. Can you pull together a short listening guide — maybe five or six tracks that show how recording technology changed from '70 to '79? Start tomorrow, July 2nd, and let's have it by July 10th.
+
+**Dana:** I'd love to. I'll have it by the 10th.
+
+**Marcus:** And Sheila, you brought up the subgenre fracturing. Can you put together a timeline showing when each major subgenre emerged during the decade, with key albums as markers? Start July 2nd and deliver by July 9th.
+
+**Sheila:** Absolutely. I'll map it out.
+
 **Dana:** Sounds good.
 
 **Rick:** I'll bring my list.

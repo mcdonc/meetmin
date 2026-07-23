@@ -45,8 +45,14 @@
 
 **Marcus:** Ha! Fair test. Alright, tomorrow let's talk about the relationship between 70s rock and drugs. It's impossible to discuss the era without addressing it.
 
-**Sheila:** Heavy topic. But necessary.
+**Marcus:** Action items. Rick, you defended Journey and Steve Perry. Can you put together an honest critical reassessment of three "guilty pleasure" bands from the late 70s — Journey, Boston, and Kansas — arguing for their musical merits without irony? Start July 18th, deliver by July 26th.
 
-**Rick:** See you all tomorrow.
+**Rick:** See you all tomorrow. And yes, I'll defend those bands proudly. The 26th.
 
-**Dana:** Tomorrow.
+**Marcus:** Dana, you admitted your love for ELO. Can you write up an analysis of Jeff Lynne's production techniques — how he achieved that layered, orchestral sound — and how it influenced later producers? Start July 19th, deliver by July 27th.
+
+**Dana:** Tomorrow. And I'll happily dive into Lynne's production. He's a genius. The 27th.
+
+**Marcus:** Sheila, you brought up "Hooked on a Feeling" and the power of pure catchiness. Can you curate a playlist of ten 70s tracks that are critically dismissed but commercially massive, and make the case that commercial appeal is itself a form of artistic achievement? Start July 18th, deliver by July 25th.
+
+**Sheila:** Heavy topic. But necessary. And that playlist will be fun to assemble. The 25th.

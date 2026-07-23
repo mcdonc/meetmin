@@ -37,8 +37,14 @@
 
 **Marcus:** Well said. Tomorrow, let's talk about the role of the recording studio — the producers and engineers who shaped the sound of the decade.
 
-**Sheila:** George Martin, Glyn Johns, Eddie Kramer — the invisible architects.
+**Marcus:** Action items. Rick, you talked about the loss of intimacy as venues scaled up. Can you put together a comparison of the concert experience at three scales — CBGB (300 capacity), Fillmore (2,000), and Knebworth (100,000+) — with accounts from attendees or performers? Start July 14th, deliver by July 22nd.
 
-**Rick:** Not invisible to us. See you tomorrow.
+**Rick:** Not invisible to us. I'll dig into that — the scale comparison is a great angle. The 22nd.
 
-**Dana:** Looking forward to it.
+**Marcus:** Sheila, you brought up the free concerts in parks. Can you research the Hyde Park concerts of the late 60s and early 70s and document how they influenced the festival culture of the decade? Start July 15th, deliver by July 22nd.
+
+**Sheila:** George Martin, Glyn Johns, Eddie Kramer — the invisible architects. And yes, the Hyde Park story is incredible. I'll have it by the 22nd.
+
+**Marcus:** Dana, you mentioned the bootleg tape culture. Can you write up how the Grateful Dead's decision to allow taping shaped their fanbase and created a model that later influenced how bands connect with audiences? Start July 14th, deliver by July 21st.
+
+**Dana:** Looking forward to it. The Dead taping culture is a whole ecosystem. I'll have it by the 21st.

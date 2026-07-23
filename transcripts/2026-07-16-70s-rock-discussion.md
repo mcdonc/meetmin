@@ -39,8 +39,14 @@
 
 **Marcus:** Sobering thought. Tomorrow let's lighten the mood — guilty pleasures. 70s rock songs and albums that you love but maybe shouldn't.
 
-**Rick:** Oh no. I'm going to have to admit things.
+**Marcus:** Action items. Sheila, you told the Fanny story — Bowie championing them, the press ignoring them. Can you research and write up profiles of three all-female or female-fronted rock bands from the 70s who were overlooked, documenting what they achieved and why they were forgotten? Start July 17th, deliver by July 25th.
 
-**Sheila:** That's the point. See you tomorrow.
+**Sheila:** That's the point. I'll do it justice. The 25th.
 
-**Dana:** This could be dangerous. I'm in.
+**Marcus:** Dana, your picks were Gentle Giant and Caravan — deep prog cuts. Can you put together a beginner's guide to the Canterbury scene — Caravan, Soft Machine, Hatfield and the North — with recommended entry-point albums? Start July 18th, deliver by July 25th.
+
+**Dana:** This could be dangerous. I'm in. I'll have the Canterbury guide by the 25th.
+
+**Marcus:** Rick, you mentioned Montrose as the blueprint Van Halen built on. Can you do a track-by-track comparison of the first Montrose album versus Van Halen's debut, showing the sonic parallels? Start July 17th, deliver by July 24th.
+
+**Rick:** Oh no. I'm going to have to admit things — about how much I love that Montrose record. I'll have it by the 24th. See you tomorrow.

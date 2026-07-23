@@ -41,8 +41,14 @@
 
 **Marcus:** The cultural politics of southern rock could be its own whole conversation. For tomorrow, let's shift to glam rock — Bowie, T. Rex, Roxy Music. A completely different aesthetic.
 
-**Dana:** Now that's more my speed.
+**Marcus:** A few action items. Rick, you grew up on this stuff — can you put together an annotated guide to the Allman Brothers' improvisational techniques, using specific tracks from *At Fillmore East* as examples? Start July 6th, deliver by July 14th.
 
-**Rick:** I figured. See you all tomorrow.
+**Rick:** I figured you'd ask me. I'll have it by the 14th.
 
-**Sheila:** This has been great. Tomorrow then.
+**Marcus:** Dana, you made the point about southern rock breaking down the wall with country. Can you trace that lineage from Gram Parsons through the Allmans to the 90s alt-country movement, with key albums at each stage? Start July 7th, deliver by July 15th.
+
+**Dana:** Now that's more my speed — well, the research part anyway. I'll have it by the 15th.
+
+**Marcus:** Sheila, you raised the political dimension of "Sweet Home Alabama." Can you research the Van Zant-Neil Young relationship and write up the full context behind that song's lyrics? Start July 6th, deliver by July 12th.
+
+**Sheila:** This has been great. I'll dig into that — the truth is more nuanced than people think. Tomorrow then.

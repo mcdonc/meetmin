@@ -51,6 +51,18 @@
 
 **Marcus:** Same time next month. Take care, everyone.
 
+**Marcus:** Final action items for this series. Dana, you've been our prog champion throughout. Can you write a comprehensive essay — our capstone piece — on why prog rock matters, incorporating the arguments from all twenty days of discussion? Start July 21st, deliver by August 1st.
+
+**Dana:** It would be my honor. August 1st.
+
+**Marcus:** Sheila, you've been the voice for punk and for underrepresented artists. Can you put together an anthology proposal — a curated list of fifty essential 70s rock tracks across all the subgenres we discussed, with liner notes explaining each pick? Start July 22nd, deliver by August 3rd.
+
+**Sheila:** Fifty tracks to tell the story of the decade. I'll do it. August 3rd.
+
+**Marcus:** Rick, you've been our emotional center — the one who reminds us why this music matters personally. Can you write a closing reflection on what these twenty days of conversation taught you, what surprised you, and what you want to explore next? Start July 21st, deliver by July 30th.
+
+**Rick:** I'll write it from the heart. July 30th.
+
 **Dana:** Goodbye, everyone. Keep listening.
 
 **Sheila:** Keep listening. That's the whole point.

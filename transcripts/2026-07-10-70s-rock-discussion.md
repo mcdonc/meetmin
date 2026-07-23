@@ -43,8 +43,16 @@
 
 **Marcus:** Well put. Tomorrow let's get into punk — the movement that tried to blow the whole thing up.
 
-**Sheila:** Three chords and the truth. I'm ready.
+**Marcus:** Action items before we go. Rick, you gave us a fascinating rundown on Peter Grant's business model. Can you research and write up a comparison of how Grant, Klein, and Geffen structured their deals — who got fair terms and who got exploited? Start July 11th, deliver by July 20th.
 
-**Dana:** Do I have to be there for punk day?
+**Rick:** That's a meaty one. I'll have it by the 20th.
+
+**Marcus:** Sheila, you raised the exploitation of young singer-songwriters. Can you find three specific examples of artists who signed bad deals in the 70s and document how it affected their careers and income? Start July 12th, deliver by July 19th.
+
+**Sheila:** Three chords and the truth. I'm ready. And I'll dig into the contract stories — there are so many to choose from. The 19th.
+
+**Marcus:** Dana, you talked about FM radio and DJ autonomy. Can you put together a brief history of how album-oriented rock radio worked in the 70s and what killed it? Start July 11th, deliver by July 18th.
+
+**Dana:** Do I have to be there for punk day? And yes, I'll do the radio piece. The 18th.
 
 **Marcus:** Yes, Dana. See everyone tomorrow.

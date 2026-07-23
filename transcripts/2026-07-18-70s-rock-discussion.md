@@ -41,8 +41,14 @@
 
 **Marcus:** Heavy but important conversation. Tomorrow let's end the week with something more fun — desert island picks. If you could only listen to five 70s rock albums for the rest of your life, what would they be?
 
-**Rick:** Only five? That's cruel, Marcus.
+**Marcus:** Action items. Dana, you made the important point that great 70s music was made by sober artists too. Can you write up profiles of three bands — Rush, Steely Dan, and one other — who maintained creative discipline without the excess, and examine whether their music was better or worse for it? Start July 19th, deliver by July 27th.
 
-**Sheila:** Start thinking tonight. See you all tomorrow.
+**Dana:** This will keep me up. Goodnight, everyone. And yes, I'll have the sobriety profiles by the 27th.
 
-**Dana:** This will keep me up. Goodnight, everyone.
+**Marcus:** Sheila, you brought up the cycle of self-destruction repeating into the 90s and 2000s. Can you trace the "tortured artist" mythology from the 70s through Cobain and Winehouse, examining how the cultural narrative enabled those tragedies? Start July 20th, deliver by July 28th.
+
+**Sheila:** Start thinking tonight. See you all tomorrow. And I'll write that piece — it's an important story. The 28th.
+
+**Marcus:** Rick, you raised the tension between art and circumstances with *Exile on Main St.* Can you research the recording conditions of three iconic 70s albums — *Exile*, *Rumours*, and *Berlin* by Lou Reed — and examine how chaotic personal circumstances shaped the final music? Start July 19th, deliver by July 27th.
+
+**Rick:** Only five? That's cruel, Marcus. And so is this assignment — but I'll have it by the 27th.

@@ -39,8 +39,14 @@
 
 **Marcus:** Good point. Alright, I think we've made a strong case for 1971. Tomorrow let's talk about prog rock — the most ambitious and the most divisive subgenre of the decade.
 
-**Dana:** Oh, I have opinions about prog.
+**Marcus:** Let's assign some homework before tomorrow. Dana, since you have strong opinions about prog, put together a curated playlist of five essential prog tracks and five prog tracks that exemplify the self-indulgence critique. Start tonight, deliver by July 10th.
 
-**Rick:** We know you do, Dana.
+**Dana:** Oh, I have opinions about prog. And I'll have that playlist ready. The 10th works.
 
-**Sheila:** This should be fun. See everyone tomorrow.
+**Marcus:** Rick, you mentioned the creative pace — bands releasing albums yearly. Can you chart Bowie's output from '71 to '77, album by album, with the key musical shift in each? Start July 4th, deliver by July 12th.
+
+**Rick:** We know you do, Dana. And yeah Marcus, I'll take Bowie. That's a great exercise.
+
+**Marcus:** Sheila, you raised the point about 1971's losses — Duane Allman, Morrison. Can you research and write up how each of those deaths affected the surviving bands' creative direction? Start July 4th, deliver by July 11th.
+
+**Sheila:** This should be fun. And yes, I'll dig into that. It's a heavy topic but an important one. See everyone tomorrow.

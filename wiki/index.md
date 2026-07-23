@@ -1,0 +1,87 @@
+- [70s Rock](topics/70s-rock.md) — The era of rock music characterized by increased production quality and subgenre fracturing.
+- [Ahmet Ertegun](topics/ahmet-ertegun.md) — Founder of Atlantic Records.
+- [Allen Klein](topics/allen-klein.md) — Aggressive music manager.
+- [Allman Brothers Band](topics/allman-brothers-band.md) — A seminal Southern rock group known for its improvisational jazz and blues influences.
+- [Asylum Records](topics/asylum-records.md) — Label central to the Laurel Canyon scene.
+- [Atlantic Records](topics/atlantic-records.md) — Major label that transitioned from R&B to rock.
+- [Bill Graham](topics/bill-graham.md) — Influential 1970s concert promoter.
+- [Bill Bruford](topics/bill-bruford.md) — A technically brilliant and unpredictable drummer.
+- [Black Sabbath](topics/black-sabbath.md) — A band associated with the darker, heavier sound of the 1970s.
+- [Bonnie Raitt](topics/bonnie-raitt.md) — An influential blues-rock artist known for her skilled slide guitar work.
+- [Bootleg Culture](topics/bootleg-culture.md) — The practice of fans making unauthorized recordings of live musical performances.
+- [Brian Eno](topics/brian-eno.md) — An influential producer and musician connecting various post-punk scenes.
+- [Carlos Santana](topics/carlos-santana.md) — A guitarist known for blending Latin percussion and melody with rock.
+- [CBGB](topics/cbgb.md) — A legendary New York City music club that served as a central hub for the punk scene.
+- [Dark Side of the Moon](topics/dark-side-of-the-moon.md) — A landmark concept album by Pink Floyd.
+- [David Bowie](topics/david-bowie.md) — A highly influential artist known for his constant evolution and prolific 1970s output.
+- [David Geffen](topics/david-geffen.md) — Founder of Asylum Records.
+- [Elmp](topics/elmp.md) — Emerson, Lake & Palmer, known for orchestral prog and virtuosity.
+- [Fleetwood Mac](topics/fleetwood-mac.md) — A prominent rock band known for its melodic songwriting and personal drama.
+- [FM Radio](topics/fm-radio.md) — Radio format that drove 70s rock discovery.
+- [Freddie Mercury](topics/freddie-mercury.md) — The legendary frontman of Queen.
+- [Gang of Four](topics/gang-of-four.md) — A post-punk band known for their political and funk-influenced sound.
+- [Genesis](topics/genesis.md) — An influential prog band that evolved from theatricality to pop.
+- [Glamp Rock](topics/glam-rock.md) — A subgenre of rock music.
+- [Grace Slick](topics/grace-slick.md) — A vocalist known for her piercing clarity.
+- [Geddy Lee](topics/geddy-lee.md) — The bassist, vocalist, and keyboardist for Rush.
+- [Geezer Butler](topics/geezer-butler.md) — The bassist for Black Sabbath, known for his dark and melodic bass lines.
+- [Grateful Dead](topics/grateful-dead.md) — An American rock band known for their improvisational style and influence on live music culture.
+- [Heart](topics/heart.md) — An influential rock band featuring the Wilson sisters.
+- [Ian Gillan](topics/ian-gillan.md) — A singer-songwriter known for his natural and warm vocal style.
+- [Janis Joplin](topics/janis-joplin.md) — A legendary rock vocalist.
+- [John Bonham](topics/john-bonham.md) — An influential rock drummer known for his power and groove.
+- [John Entwistle](topics/john-entwistle.md) — The bassist for The Who, known as "The Ox."
+- [John Paul Jones](topics/john-paul-jones.md) — The multi-instrumentalist for Led Zeppelin.
+- [Keith Moon](topics/keith-moon.md) — The energetic drummer for The Who.
+- [Keith Richards](topics/keith-richards.md) — A legendary guitarist for the Rolling Stones.
+- [King Crimson](topics/king-crimson.md) — A progressive rock band known for constant evolution and complexity.
+- [Led Zeppelin](topics/led-zeppelin.md) — A seminal rock band of the 1970s.
+- [London Calling](topics/london-calling.md) — A landmark double album by The Clash.
+- [Lynyrd Skynyrd](topics/lynyrd-skynyrd.md) — A prominent Southern rock band known for their structured arrangements.
+- [Magazine](topics/magazine.md) — A post-punk band formed by Howard Devoto.
+- [Marquee Moon](topics/marquee-moon.md) — A seminal album by Television.
+- [Martin Hannett](topics/martin-hannett.md) — A producer known for his atmospheric production style.
+- [Nancy Wilson](topics/nancy-wilson.md) — A skilled acoustic and electric guitarist, known for her work with the band Heart.
+- [Neil Peart](topics/neil-peart.md) — The legendary drummer for Rush.
+- [Neil Young](topics/young-rock.md) — An influential rock musician discussed in relation to Southern rock.
+- [New Wave](topics/new-wave.md) — A musical movement emerging from punk.
+- [Pink Floyd](topics/pink-floyd.md) — A band central to the development of the concept album.
+- [Phil Lynott](topics/phil-lynott) — The bassist, singer, and frontman for Thin Lizzy.
+- [Post-Punk](topics/post-punk.md) — A musical movement emerging from the punk ethos.
+- [Prog Rock](topics/prog-rock.md) — A subgenre characterized by technical virtuosity and complex structures.
+- [Queen](topics/queen.md) — A legendary rock band known for complex vocal layering.
+- [Rolling Stones](topics/rolling-stones.md) — A legendary rock band discussed for their prolific 1970s output.
+- [Rory Gallagher](topics/rory-gallagher.md) — An Irish blues-rock guitarist known for his passionate playing.
+- [Rock Against Racism](topics/rock-against-racism.md) — A political movement in the late 1970s.
+- [Roy Thomas Baker](topics/roy-thomas-baker.md) — A producer known for his work with Queen.
+- [Sex Pistols](topics/sex-pistols.md) — A seminal UK punk band.
+- [Southern Rock](topics/southern-rock.md) — A subgenre of rock music blending rock, blues, country, and jazz.
+- [Steve Howe](topics/steve-howe.md) — A guitarist known for his work with Yes.
+- [T-Rex](topics/t-rex.md) — A glam rock band.
+- [The Clash](topics/the-clash.md) — A highly influential UK punk band.
+- [The Damned](topics/the-damned.md) — A UK punk band.
+- [The Who](topics/the-who.md) — A seminal rock band known for their influential use of synthesizers and anthemic songs.
+- [The Ramones](topics/the-ramones.md) — A seminal punk rock band from New York.
+- [Television](topics/television.md) — An influential band from the New York punk scene.
+- [Tina Weymouth](topics/tina-weymouth.md) — The bassist for Talking Heads, known for her minimalist approach.
+- [Talking Heads](topics/talking-heads.md) — A post-punk band known for their unique sound.
+- [Siouxsie and the Banshees](topics/siouxsie-and-the-banshees.md) — An influential post-punk band.
+- [person-dana](topics/person-dana.md) — Dana, discussion group member.
+- [person-marcus](topics/person-marcus.md) — Marcus, discussion group member.
+- [person-rick](topics/person-rick.md) — A Rick, discussion group member.
+- [person-sheila](topics/person-sheila.md) — Sheila, discussion group member.
+- [DIY Ethic](topics/diy-ethic.md) — The DIY approach to music production and distribution.
+- [Glam Rock](topics/glam-rock.md) — A subgenre of rock music.
+- [Hip-Hop](topics/hip-hop.md) — The genre born in the late 70s that heavily uses sampling.
+- [Punk Rock](topics/punk-rock.md) — A musical movement emerging from the punk ethos.
+- [Big Star](topics/big-star.md) — A American power pop band.
+- [Budgie](topics/budgie.md) — A Welsh heavy metal band.
+- [Captain Beyond](topics/captain-beyond.md) — A psychedelic hard rock band.
+- [Caravan](topics/caravan.md) — A prominent band of the Canterbury scene.
+- [Fanny](topics/fanny.md) — An all-female rock band from the early 70s.
+- [Gentle Giant](topics/gentle-giant.md) — A British progressive rock band.
+- [Montrose](topics/montrose.md) — A American hard rock band.
+- [Nektar](topics/nektar.md) — A German-based progressive rock band.
+- [The Runaways](topics/the-runaways.md) — An all-female rock band.
+- [UFO](topics/ufo.md) — A British hard rock band.
+- [Yes](topics/yes.md) — An influential progressive rock band.

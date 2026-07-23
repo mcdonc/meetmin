@@ -8,6 +8,13 @@ dependencies = [
 
 [project.scripts]
 meetmin-summarize = "meetmin.summarize:main"
+meetmin-ingest = "meetmin.ingest:main"
+meetmin-ask = "meetmin.ask:main"
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0",
+]
 
 [build-system]
 requires = ["hatchling"]

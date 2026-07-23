@@ -34,19 +34,16 @@ from pathlib import Path
 
 from openai import OpenAI
 
+from .chat import chat_completion
+
 DEFAULT_MODEL = os.environ.get("OPENAI_MODEL", "gpt-4o-mini")
 DEFAULT_TEMPERATURE = float(os.environ.get("OPENAI_TEMPERATURE", "0.2"))
 DEFAULT_MAX_TOKENS = int(os.environ.get("OPENAI_MAX_TOKENS", "8000"))
 
-SYSTEM_PROMPT = """\
-You are a meeting-minutes writer. You are given the raw, auto-transcribed text
-of a short business meeting. Produce clean, structured minutes in
-GitHub-flavored Markdown.
-
-Output ONLY the Markdown document — no code fences, no preamble, no commentary.
-
-Use exactly this structure:
-
+# The per-meeting minutes structure. Shared so that meetmin-ingest produces
+# per-meeting pages in the same shape as the standalone summarizer — single
+# source of truth for the format.
+MINUTES_STRUCTURE = """\
 # <Meeting Title> — Minutes
 
 - **Date:** <YYYY-MM-DD>
@@ -70,7 +67,18 @@ Use exactly this structure:
 
 ## Upcoming
 
-<Bulleted list of upcoming dates/events mentioned. Omit this section if none.>
+<Bulleted list of upcoming dates/events mentioned. Omit this section if none.>"""
+
+SYSTEM_PROMPT = f"""\
+You are a meeting-minutes writer. You are given the raw, auto-transcribed text
+of a short business meeting. Produce clean, structured minutes in
+GitHub-flavored Markdown.
+
+Output ONLY the Markdown document — no code fences, no preamble, no commentary.
+
+Use exactly this structure:
+
+{MINUTES_STRUCTURE}
 
 Extract the title, date, duration, and attendees from the transcript header.
 Substitute the provided RAW_RELPATH and RAW_LINK values into the Source line.
@@ -93,7 +101,8 @@ def summarize_transcript(
         f"RAW_LINK = {raw_link}\n\n"
         f"Transcript:\n\n{transcript}"
     )
-    response = client.chat.completions.create(
+    response = chat_completion(
+        client,
         model=model,
         max_tokens=max_tokens,
         temperature=temperature,
